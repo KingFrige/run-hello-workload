@@ -1,0 +1,7 @@
+{
+  "name" : "run-hello",
+  "base" : "br-base.json",
+  "workdir" : "..",
+  "overlay" : "overlay",
+  "command" : "./run-hello.sh"
+}
